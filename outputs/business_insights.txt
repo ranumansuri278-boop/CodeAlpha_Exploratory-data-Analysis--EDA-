@@ -1,0 +1,33 @@
+SUPERSTORE BUSINESS INSIGHTS REPORT
+=============================================
+Records analyzed: 9994
+Columns analyzed: 21
+
+Total Sales: 2,297,200.86
+Total Profit: 286,397.02
+Overall Profit Margin: 12.47%
+
+Category with highest sales: Technology
+Category with highest total profit: Technology
+
+Category performance:
+                 Total_Sales  Total_Profit
+Category                                  
+Furniture          741999.80      18451.27
+Office Supplies    719047.03     122490.80
+Technology         836154.03     145454.95
+
+Region with highest total profit: West
+Region with lowest total profit: Central
+
+Regional performance:
+         Total_Sales  Total_Profit
+Region                            
+Central    501239.89      39706.36
+East       678781.24      91522.78
+South      391721.90      46749.43
+West       725457.82     108418.45
+
+Discount level with highest average profit: 0.1
+Discount level with lowest average profit: 0.5
+Note: These are descriptive comparisons, not proof that discounts cause profit changes.
